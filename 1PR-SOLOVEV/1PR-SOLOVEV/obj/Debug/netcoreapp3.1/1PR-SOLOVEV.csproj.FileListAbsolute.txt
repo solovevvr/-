@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\1PR-SOLOVEV\1PR-SOLOVEV\bin\Debug\netcoreapp3.1\1PR-SOLOVEV.exe
+C:\Users\student\source\repos\1PR-SOLOVEV\1PR-SOLOVEV\bin\Debug\netcoreapp3.1\1PR-SOLOVEV.deps.json
+C:\Users\student\source\repos\1PR-SOLOVEV\1PR-SOLOVEV\bin\Debug\netcoreapp3.1\1PR-SOLOVEV.runtimeconfig.json
+C:\Users\student\source\repos\1PR-SOLOVEV\1PR-SOLOVEV\bin\Debug\netcoreapp3.1\1PR-SOLOVEV.runtimeconfig.dev.json
+C:\Users\student\source\repos\1PR-SOLOVEV\1PR-SOLOVEV\bin\Debug\netcoreapp3.1\1PR-SOLOVEV.dll
+C:\Users\student\source\repos\1PR-SOLOVEV\1PR-SOLOVEV\bin\Debug\netcoreapp3.1\1PR-SOLOVEV.pdb
+C:\Users\student\source\repos\1PR-SOLOVEV\1PR-SOLOVEV\obj\Debug\netcoreapp3.1\1PR-SOLOVEV.csprojAssemblyReference.cache
+C:\Users\student\source\repos\1PR-SOLOVEV\1PR-SOLOVEV\obj\Debug\netcoreapp3.1\1PR-SOLOVEV.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\1PR-SOLOVEV\1PR-SOLOVEV\obj\Debug\netcoreapp3.1\1PR-SOLOVEV.AssemblyInfo.cs
+C:\Users\student\source\repos\1PR-SOLOVEV\1PR-SOLOVEV\obj\Debug\netcoreapp3.1\1PR-SOLOVEV.dll
+C:\Users\student\source\repos\1PR-SOLOVEV\1PR-SOLOVEV\obj\Debug\netcoreapp3.1\1PR-SOLOVEV.pdb
